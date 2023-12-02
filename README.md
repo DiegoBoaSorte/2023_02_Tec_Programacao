@@ -1,31 +1,49 @@
-### 2023_02_Tec_Programacao
-### Alunos: Diego Dias e Mateus Reis
+## Atividade prática ATV_III
+
+# Grupo World Beauty(WB)
+
+<h3> Aplicação com React</h3>
+
+## Objetivo
+O objetivo é construir a mesma GUI, feita anteriormente com componentes de classe, mas agora com componentes de função e, se necessário, utilizando hooks para controle do ciclo de vida dos componentes. Para este pré-projeto, deve-se utilizar as mesmas bibliotecas, citadas no projeto anterior, com as mesmas ressalvas e versão.
+
+## Tecnologias
+
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-<br/>
+## Como executar o projeto
+<h3>Para executar o projeto é necessário ter instalado em seu computador o Node e NPM.</h3>
+
+<h3>Após instalado deverá clonar o repositório</h3>
+
+```
+https://github.com/DiegoBoaSorte/2023_02_Tec_Programacao.git
+```
+
+> 
+<br>
+<h3>Acesse a pasta que o projeto foi colado pelo terminal (pode ser no Visual Studio Code mesmo), e
+em seguida acesse a pasta '2023_02_Tec_Programacao' para executar este projeto</h3>
+
+```
+  cd <nome da pasta que foi clonada>/ATV_03-WB
+```
+
+<h3>O comando a baixo instala as dependências necessárias do projeto, no terminal copie e cole o comando seguido da tecla enter</h3>
+
+```
+  npm install ou npm i
+```
+
+<h3>Em seguida execute o último comando, e assim o projeto será iniciado</h3>
+
+```
+  npm run start
+```
 
 
-# Grupo WB - World Beauty
 
-O grupo WB iniciou um projeto para atender o público masculino também, oferecendo serviços de barbearia como corte de cabelo, modelagem e corte de barba, tratamento para quedas de cabelo e venda de produtos 
-especializados.
-O trabalho da sua empresa é desenvolver uma agenda de clientes para o grupo WB.
-Desta forma o grupo WB listou algumas funcionalidades que o sistema precisa ter, elas são:
-
-<br/>
-
-1. Listagem dos 10 clientes que mais consumiram produtos ou serviços, em quantidade e não por valor.
-2. Listagem de todos os clientes por gênero.
-3. Listagem geral dos serviços ou produtos mais consumidos.
-4. Listagem dos serviços ou produtos mais consumidos por gênero.
-5. Listagem dos 10 clientes que menos consumiram produtos ou serviços.
-6. Listagem dos 5 clientes que mais consumiram em valor, não em quantidade.
-
-<br/>
-Antes de entregar o sistema, sua empresa deve testá-lo, cadastrando pelo menos 30 clientes e 20 produtos. 
-Além disso, devem ser testadas todas as funcionalidades.
-
-Lembre-se, agora a responsabilidade está com você. O futuro da empresa depende das tuas habilidades.
-
-<br/>
-Muito Obrigado!
+<h4>FIM</h4>
